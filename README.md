@@ -1,4 +1,6 @@
 # Guide to Arch Linux w/ KDE Plasma
+# [WIP]
+
 This is meant for a friend and not the general public. You may use it if you'd like, I can't stop you.
 This is mostly just an info dump of everything I've learned that would be useful to have. It's far from perfect and won't be for everyone, it's just what works best for me.
 I'm also very bored, that's why I'm making this.
