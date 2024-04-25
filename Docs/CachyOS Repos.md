@@ -12,4 +12,4 @@ cd ~/Downloads && wget https://mirror.cachyos.org/cachyos-repo.tar.xz && tar xvf
 Once it has finished, you may proceed to the [[Installing Packages|next page.]]
 
 ---
-[[Setting up Paru]]
+[Setting up Paru](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Setting%20up%20Paru.md)
