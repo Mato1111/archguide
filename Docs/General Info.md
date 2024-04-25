@@ -11,8 +11,7 @@ When you are asked a yes or no question in the terminal, the upper case letter i
 Example: `Y/n` hitting enter without typing anything will select Yes.  `y/N` hitting enter = No.
 
 ## Aliases
-^f37034
-Aliases are useful tools for the terminal that help automate certain tasks or just make them simpler. An example can be found [[Installing Packages#^c900d4|here.]]
+Aliases are useful tools for the terminal that help automate certain tasks or just make them simpler. An example can be found [here](https://github.com/Mato1111/archguide/blob/main/Docs/Updating%20your%20System.md#bonus)
 
 Some built in aliases include:
 `~` is to your user/home folder. (Ex: cd ~/Pictures = cd /home/username/Pictures)
