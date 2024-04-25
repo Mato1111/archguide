@@ -14,4 +14,4 @@ alias -s up="paru -Syu && echo '----- Updating flatpak -----' && flatpak upgrade
 Now if you run the command `up`, it will update everything on your system, including Flatpaks.
 
 ---
-[[Useful Packages and Apps]]
+[Useful Packages and Apps](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Useful%20Packages%20and%20Apps.md)
