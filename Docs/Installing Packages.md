@@ -22,4 +22,4 @@ To install a Flatpak, just open Discover, search for the app you want to install
 The reason I don't personally use Flatpaks is because they often need extra configuration using `Flatseal` in order for stuff like system theming and cursors to apply. This has gotten better over time, and isn't an issue for a lot of apps. In fact, I use the Flatpak for OBS.
 
 ---
-[[Updating your System]]
+[Updating your System](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Updating%20your%20System.md)
