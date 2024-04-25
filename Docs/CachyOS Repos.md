@@ -9,7 +9,7 @@ To install the repos run the following command:
 cd ~/Downloads && wget https://mirror.cachyos.org/cachyos-repo.tar.xz && tar xvf cachyos-repo.tar.xz && cd cachyos-repo && sudo ./cachyos-repo.sh
 ```
 
-Once it has finished, you may proceed to the [[Installing Packages|next page.]]
+Once it has finished, you may proceed to the [next page.](https://github.com/Mato1111/archguide/blob/main/Docs/Setting%20up%20Paru.md)
 
 ---
 [Setting up Paru](https://github.com/Mato1111/archguide/blob/main/Docs/Setting%20up%20Paru.md)
