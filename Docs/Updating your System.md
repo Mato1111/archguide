@@ -10,7 +10,7 @@ I have also made an [alias](https://github.com/Mato1111/archguide/blob/main/Docs
 ```
 alias -s up="paru -Syu && echo '----- Updating flatpak -----' && flatpak upgrade"
 ```
-<br/>
+
 Now if you run the command `up`, it will update everything on your system, including Flatpaks.<br/>
 
 ---
