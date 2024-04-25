@@ -1,5 +1,5 @@
 # Guide to Arch Linux w/ KDE Plasma
-This is not meant for use by the public, it is meant for a friend.
+This is not meant to be used by the general public, it is meant for a friend. You may use it if you'd like, I can't stop you.
 
 ---
 
