@@ -5,4 +5,4 @@ Next, remove the Hashtag in front of the lines that say, `BottomUp`, `SudoLoop`,
 You can now save it with `ctrl+s` and quit with `ctrl+q`. 
 
 ---
-[[Installing Packages]]
+[Installing Packages](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Installing%20Packages.md)
