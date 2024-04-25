@@ -10,4 +10,4 @@ To disable the file picker, follow these steps:
 3. Save the file
 
 ---
-[Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Useful%20Application%20Launch%20Options.md)
+[Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Useful%20Application%20Launch%20Options.md)
