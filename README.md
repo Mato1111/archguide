@@ -5,14 +5,14 @@ This is not meant for use by the public, it is meant for a friend.
 
 # Table of Contents
 1. [General Info](https://github.com/Mato1111/archguide/blob/94ccc85a0206cdc551f1a5f5b8e52e7b0ea1c83d/Docs/General%20Info.md)
-2. [CachyOS Repos]
-3. [Setting up Paru]
-4. [Installing Packages]
-5. [Updating your System]
-6. [Useful Packages and Apps]
-7. [Other App Info]
-8. [Useful Application Launch Options]
-9. [Steam Launch Options]
+2. [CachyOS Repos](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/CachyOS%20Repos.md)
+3. [Setting up Paru](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Setting%20up%20Paru.md)
+4. [Installing Packages](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Installing%20Packages.md)
+5. [Updating your System](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Updating%20your%20System.md)
+6. [Useful Packages and Apps](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Useful%20Packages%20and%20Apps.md)
+7. [Other App Info](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Other%20App%20Info.md)
+8. [Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Useful%20Application%20Launch%20Options.md)
+9. [Steam Launch Options](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Steam%20Launch%20Options.md)
 
 --- 
 
