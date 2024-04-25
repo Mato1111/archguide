@@ -19,4 +19,4 @@ Good alternatives to Windows apps:
 - 
 
 ---
-[[Other App Info]]
+[Other App Info](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Other%20App%20Info.md)
