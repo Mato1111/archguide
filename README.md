@@ -4,7 +4,7 @@ This is not meant to be used by the general public, it is meant for a friend. Yo
 ---
 
 # Table of Contents
-1. [General Info](https://github.com/Mato1111/archguide/blob/94ccc85a0206cdc551f1a5f5b8e52e7b0ea1c83d/Docs/General%20Info.md)
+1. [General Info](https://github.com/Mato1111/archguide/blob/main/Docs/General%20Info.md)
 2. [CachyOS Repos](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/CachyOS%20Repos.md)
 3. [Setting up Paru](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Setting%20up%20Paru.md)
 4. [Installing Packages](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Installing%20Packages.md)
