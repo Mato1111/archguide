@@ -6,4 +6,4 @@ Now, go to the application tab and add the launch option to the "Arguments" text
 This enables middle-click scrolling in apps that use Chromium, such as Discord or Vivaldi.
 
 ---
-[Steam Launch Options](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/Steam%20Launch%20Options.md)
+[Steam Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Steam%20Launch%20Options.md)
