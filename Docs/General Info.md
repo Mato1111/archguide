@@ -13,10 +13,10 @@ Example: `Y/n` hitting enter without typing anything will select Yes.  `y/N` hit
 ## Aliases
 Aliases are useful tools for the terminal that help automate certain tasks or just make them simpler. An example can be found [here](https://github.com/Mato1111/archguide/blob/main/Docs/Updating%20your%20System.md#bonus)
 
-Some built in aliases include:<b/>
-`~` is to your user/home folder. (Ex: cd ~/Pictures = cd /home/username/Pictures)<b/>
-`.` is the current directory. (Ex: cd ./Wallpapers = cd /home/username/Pictures/Wallpapers)<b/>
-`..` is one directory up. (Ex: cd .. = cd /home/username/Pictures)<b/>
+Some built in aliases include:<b>
+`~` is to your user/home folder. (Ex: cd ~/Pictures = cd /home/username/Pictures)<b>
+`.` is the current directory. (Ex: cd ./Wallpapers = cd /home/username/Pictures/Wallpapers)<b>
+`..` is one directory up. (Ex: cd .. = cd /home/username/Pictures)<b>
 
 ## Text Editing
 Text editing can be done from the terminal if needed. 
