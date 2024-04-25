@@ -1,4 +1,5 @@
-In parentheses is the name of the packages you can use to install it using `paru`. You can also find the description by searching it with `paru`.
+In parentheses is the name of the packages you can use to install it using `paru`. <br/>
+You can also find the description by searching it with `paru`.
 - r2modman (`r2modman-bin`)
 - Vesktop/Vencord (`vesktop`)
 - CKAN (`ckan`)
