@@ -26,4 +26,4 @@ The most common way of doing this is with `nano`, but I prefer `micro`, as it is
 You can install `micro` by running the command `yay -S micro`. in a terminal window. This is pretty much required if you want to fully follow this guide.
 
 ---
-[CachyOS Repos](https://github.com/Mato1111/archguide/blob/faddade510de20d9b827b5734581aee4b6d1569f/Docs/CachyOS%20Repos.md)
+[CachyOS Repos](https://github.com/Mato1111/archguide/blob/main/Docs/CachyOS%20Repos.md)
