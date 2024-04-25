@@ -7,7 +7,15 @@ I hate the file picker. With a burning passion. Luckily, it can be disabled.
 To disable the file picker, follow these steps:
 1. Run  `sudo micro /usr/share/xdg-desktop-portal/portals/gtk.portal`
 2. On line 3, remove `org.freedesktop.impl.portal.FileChooser;` (including the semi-colon)
-3. Save the file
+3. Save the file.
+
+It should now look like this:
+```
+[portal]
+DBusName=org.freedesktop.impl.portal.desktop.gtk
+Interfaces=org.freedesktop.impl.portal.AppChooser;org.freedesktop.impl.portal.Print;org.freedesktop.impl.portal.Notification;org.freedesktop.impl.portal.Inhibit;org.freedesktop.impl.portal.Access;org.freedesktop.impl.portal.Account;org.freedesktop.impl.portal.Email;org.freedesktop.impl.portal.DynamicLauncher;org.freedesktop.impl.portal.Lockdown;org.freedesktop.impl.portal.Settings;
+UseIn=gnome
+```
 
 ---
 [Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Useful%20Application%20Launch%20Options.md)
