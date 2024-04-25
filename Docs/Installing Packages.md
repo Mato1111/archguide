@@ -1,17 +1,16 @@
 ## System Packages
 System packages, or just packages, are the main way that apps, drivers, and utilities are installed on a Linux system.
- These can be installed using the `yay` command. To 'search' for a package, use the `yay` command without any extra arguments and the name of the thing you want to install.
+These can be installed using the `paru` command. To 'search' for a package, use the `paru` command without any extra arguments and the name of the thing you want to install.
  
- For example: `yay vivaldi`. You can then select the which package you want by typing in the number(s) next to the name(s) and hitting enter. 
+For example: `paru vivaldi`. You can then select the which package you want by typing in the number(s) next to the name(s) and hitting enter. 
 
-When installing something from the AUR, it will show you the `PKGBUILD` file. This is a safety feature that lets you review the install script before running it, just in case its trying to something crazy, such as removing the home directory. 
+When installing something from the AUR, it will show you the `PKGBUILD` file. This is a safety feature that lets you review the install script before running it, just in case its trying to something crazy, such as removing the home directory. To get past this preview/wall of text, press `q`, then `enter`.
  
 If it says that 2 packages are conflicting and asks if you want to remove the old one, type "y" and hit enter ONLY if you actually want to replace the old package with the new one you are installing. If this happens during an update, it should be okay to just hit enter, as `Y` should be the default option and it is most likely being replaced by a newer version of the package, but under a different name.
 
+Using `paru -S <package-name>`, you can install any specific package that you already know the name of and you wont have to pick from a list of options.
 
-Using `yay -S <package-name>`, you can install any specific package that you already know the name of and you wont have to pick from a list of options.
-
-For example `yay -S spotify`. This will install Spotify without showing you a long list of other options.
+For example `paru -S spotify`. This will install Spotify without showing you a long list of other options.
 
 # Flatpaks
 Flatpaks are an alternative way of installing apps on Linux. These are usually installed from Flathub, which you can access by opening Discover from the application launcher. 
