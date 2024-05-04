@@ -17,6 +17,7 @@ I'm also very bored, that's why I'm making this.
 7. [Other App Info](https://github.com/Mato1111/archguide/blob/main/Docs/Other%20App%20Info.md)
 8. [Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Useful%20Application%20Launch%20Options.md)
 9. [Steam Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Steam%20Launch%20Options.md)
+10. [Good Videos to Watch]()
 
 --- 
 
