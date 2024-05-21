@@ -16,7 +16,7 @@ Aliases are useful tools for the terminal that help automate certain tasks or ju
 Some built in aliases include:<br/>
 `~` is to your user/home folder. (Ex: cd ~/Pictures = cd /home/username/Pictures)<br/>
 `.` is the current directory. (Ex: cd ./Wallpapers = cd /home/username/Pictures/Wallpapers)<br/>
-`..` is one directory up. (Ex: cd .. = cd /home/username/Pictures)<br/>
+`..` is one directory up. (Ex: (Starting in ~/Pictures) cd .. = cd /home/username/)<br/>
 
 ## Text Editing
 Text editing can be done from the terminal if needed. 
