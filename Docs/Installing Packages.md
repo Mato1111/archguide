@@ -12,6 +12,8 @@ Using `paru -S <package-name>`, you can install any specific package that you al
 
 For example `paru -S spotify`. This will install Spotify directly without showing you a long list of other options.<br/>
 
+To uninstall packages, run `paru -R <package-name>`<br/>
+
 ## Flatpaks
 Flatpaks are an alternative way of installing apps on Linux. These are usually installed from Flathub, which you can access by opening Discover from the application launcher. <br/>
 They are generally easier to install and use for new users, and are the default on immutable distros.<br/>
