@@ -16,6 +16,8 @@ You can also find the description by searching it with `paru`.
 - kdenlive (`kdenlive`)
 - graphicsmagick (`graphicsmagick`)
 
+When you install Steam, choose `vulkan-radeon` if you have an AMD GPU.
+
 Good alternatives to Windows apps:
 - 
 
