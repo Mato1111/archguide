@@ -1,5 +1,5 @@
 ## System Packages
-System packages, or just packages, are the main way that apps, drivers, and utilities are installed on a Linux system. Arch Linux uses `pacman` as it's package manager. I will be using `paru` to install packagns through pacman.
+System packages, or just packages, are the main way that apps, drivers, and utilities are installed on a Linux system. Arch Linux uses `pacman` as it's package manager. I will be using `paru` to install packages through pacman.
 
 For example: `paru vivaldi` will search for packages with a name or description containing "Vivaldi." You can then select then which package you want by typing in the number(s) next to the name(s) and hitting enter. <br/>
 
