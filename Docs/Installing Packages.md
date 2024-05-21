@@ -1,6 +1,5 @@
 ## System Packages
-System packages, or just packages, are the main way that apps, drivers, and utilities are installed on a Linux system. Arch Linux uses `pacman` as it's package manager. Flatpaks are an alternative way of installing apps on Linux. These are usually installed from Flathub, which you can access by opening Discover from the application launcher. <br/>
-They are generally easier to install and use for new users, and are the default on immutable distros.<br/>
+System packages, or just packages, are the main way that apps, drivers, and utilities are installed on a Linux system. Arch Linux uses `pacman` as it's package manager. I will be using `paru` to install packagns through pacman.
 
 For example: `paru vivaldi` will search for packages with a name or description containing "Vivaldi." You can then select then which package you want by typing in the number(s) next to the name(s) and hitting enter. <br/>
 
