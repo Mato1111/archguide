@@ -9,7 +9,7 @@ If it says that 2 packages are conflicting and asks if you want to remove the ol
 
 Using `paru -S <package-name>`, you can install any specific package that you already know the name of and you wont have to pick from a list of options.<br/>
 
-For example `paru -S spotify`. This will install Spotify directly without showing you a long list of other options.<br/>
+For example `paru -S spotify-launcher`. This will install Spotify directly without showing you a long list of other options.<br/>
 
 To uninstall packages, run `paru -R <package-name>`<br/>
 
