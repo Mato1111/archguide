@@ -4,22 +4,21 @@ You can also find the description by searching it with `paru`.
 - Vesktop/Vencord (`vesktop`)
 - CKAN (`ckan`)
 - Bottles (`bottles`)
-- gthumb (`gthumb`) (Image viewer for everything except GIFs, use gwenview for GIFs.)
+- gwenview (`gwenview`) (Image viewer)
 - btop (`btop`)
-- Modrinth (`modrinth-app`)
 - Prism Launcher (`prismlauncher`)
 - OBS Studio (`obs-studio`)
 - Protontricks (`protontricks`)
-- ProtonUp-Qt (`protonup-qt`)
 - qpwgraph (`qpwgraph`)
 - VLC (`vlc`)
 - kdenlive (`kdenlive`)
 - graphicsmagick (`graphicsmagick`)
 
-When you install Steam, choose `vulkan-radeon` if you have an AMD GPU.
+When you install Steam, choose `lib32-vulkan-radeon` if you have an AMD GPU.
 
 Good alternatives to Windows apps:
-- 
+- Mission Center (`mission-center`) (Task Manager)
+
 
 ---
 [Other App Info](https://github.com/Mato1111/archguide/blob/main/Docs/Other%20App%20Info.md)
