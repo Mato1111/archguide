@@ -1,7 +1,7 @@
 ## File Structure
 The Linux file structure is a bit different from Windows.<br/>
 All of your user data is stored in the `/home/(your username)/` folder. <br/>
-Most settings are stored in the `/home/username/.config/` folder. When you make changes to app settings, or if you to change the "config file" for an app, you'll likely find it located in that folder. 
+Most settings are stored in the `/home/(your username)/.config/` folder. When you make changes to app settings, or if you to change the "config file" for an app, you'll likely find it located in that folder. 
 
 ## Sudo
 When using the terminal, some commands may ask for a 'sudo' password. This is the same as giving admin permissions on Windows, but requires a password.
