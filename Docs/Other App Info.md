@@ -20,7 +20,7 @@ UseIn=gnome
 # Clearing your Cache
 If you're ever running out of storage space, chances are your pacman/paru cache is taking up a good amount of that space. To clear it, follow these steps:
 1. Run `paru -Scc`
-2. "Yes, no, yes, no". You want to answer the 4 questions in that order. This will remove cached files, but not remove important repos.
+2. "Yes, no, yes, yes". You want to answer the 4 questions in that order. This will remove cached files, but not remove important repos.
 
 ---
 [Useful Application Launch Options](https://github.com/Mato1111/archguide/blob/main/Docs/Useful%20Application%20Launch%20Options.md)
