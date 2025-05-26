@@ -11,7 +11,6 @@ You can also find the description by searching it with `paru`.
 - Protontricks (`protontricks`)
 - qpwgraph (`qpwgraph`)
 - VLC (`vlc`)
-- kdenlive (`kdenlive`)
 - graphicsmagick (`graphicsmagick`)
 
 When you install Steam, choose `lib32-vulkan-radeon` if you have an AMD GPU.
